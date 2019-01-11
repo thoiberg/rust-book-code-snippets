@@ -1,0 +1,6 @@
+[package]
+name = "shared-state"
+version = "0.1.0"
+authors = ["Tim Hoiberg <tim.hoiberg@envato.com>"]
+
+[dependencies]
